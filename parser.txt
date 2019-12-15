@@ -1,0 +1,19 @@
+Identifier   a
+Op_assign   
+Integer   5
+Op_add   
+Integer   2
+Op_multiply   
+Integer   3
+Op_subtract   
+Integer   5
+Op_add   
+Integer   7
+Op_multiply   
+Integer   56
+Op_add   
+Integer   323
+Op_mod   
+Integer   23
+Newline   
+End_of_input   
